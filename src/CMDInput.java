@@ -15,9 +15,13 @@ public class CMDInput {
     public static void main(String[] args) {
 
 
+        GUIDesign gui = new GUIDesign();
+
+
+
         // CMDInput args1 args2 args3
 
-
+/*
 
         List<String> listInput = new ArrayList<>();
 
@@ -58,6 +62,8 @@ public class CMDInput {
            System.out.println("No argmuments specified");
         }
 
+    */
     }
+
 
 }
